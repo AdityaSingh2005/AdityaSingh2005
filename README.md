@@ -1,16 +1,11 @@
-<h1>✨ Akshay Kumar Sharma</h1>
+<h1>✨ Aditya Singh</h1>
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
 
                     
 
-<p align="left">Passionate learner and tech enthusiast with expertise in web
-development. Dedicated to continuous learning and staying updated
-with emerging technologies. Demonstrated success in hackathons and
-delivering high-quality work. Committed to excellence and going
-the extra mile to achieve outstanding results.
+<p align="left">I'm Aditya, a 2nd Year Computer Science student. Proficient in HTML, CSS, JavaScript, Node.js, React.js, Git, and GitHub. Currently studying Data structures and algorithms with C++. Passionate about technology and collaborating with like-minded individuals. Enjoy spending time with friends and maintaining a healthy work-life balance. Open to exciting opportunities and collaborations.
 </p>
 
 ---
