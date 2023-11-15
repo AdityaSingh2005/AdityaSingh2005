@@ -27,7 +27,7 @@
 <br />
 
                     
-
+<!---
 <p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
   <a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="cappybara12" /></a>
 </p>
@@ -56,7 +56,7 @@
 <br />
 
 
-                    
+             ---->       
 
 <h2>Connect With Me</h2> 
 <p align="left">
