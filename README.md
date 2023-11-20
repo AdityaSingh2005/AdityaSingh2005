@@ -17,7 +17,7 @@
                     
 <h2>My Portfolio Website</h2> 
 <br />
-<p><a href="https://aditya-singh-portfolio.onrender.com" target="_blank">![WhatsApp Image 2023-11-20 at 18 48 31_705106cb](https://github.com/AdityaSingh2005/AdityaSingh2005/assets/103613774/ffd2e819-380c-43ec-985a-8d654a1884a3)</a></p>
+<a href="https://aditya-singh-portfolio.onrender.com" target="_blank">(https://github.com/AdityaSingh2005/AdityaSingh2005/assets/103613774/ffd2e819-380c-43ec-985a-8d654a1884a3)</a>
 <br />
 
 <h2>Languages and Tools</h2> 
