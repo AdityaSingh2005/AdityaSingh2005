@@ -17,7 +17,7 @@
                     
 <h2>My Portfolio Website</h2> 
 <br />
-<p><b>Link: </b><a href="https://aditya-singh-portfolio.onrender.com">Aditya Singh - Portfolio</a></p>
+<p><a href="https://aditya-singh-portfolio.onrender.com" target="_blank">![WhatsApp Image 2023-11-20 at 18 48 31_705106cb](https://github.com/AdityaSingh2005/AdityaSingh2005/assets/103613774/ffd2e819-380c-43ec-985a-8d654a1884a3)</a></p>
 <br />
 
 <h2>Languages and Tools</h2> 
@@ -26,7 +26,7 @@
 </p>
 <br />
 
-                    
+
 <!---
 <p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
   <a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="cappybara12" /></a>
