@@ -1,8 +1,4 @@
-<h1> 🌸 Aditya Singh <p>
-<a href="https://twitter.com/2005mister" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2005mister" /></a>
-<a href="https://instagram.com/_singh_adiitya" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_singh_adiitya" /></a>
-<a href="https://www.linkedin.com/in/aditya-singh-a04721208/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p></h1>
+<h1> 🌸 Aditya Singh</h1>
 <br /> 
 
                     
