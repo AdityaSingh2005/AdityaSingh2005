@@ -5,10 +5,13 @@
 
                     
 
-<p align="left">I'm Aditya, a 2nd Year Computer Science student.
-  Proficient in HTML, CSS, JavaScript, Node.js, React.js, Git, and GitHub.
-  Currently studying Data structures and algorithms with C++. Passionate about technology and collaborating with like-minded individuals.
-  Enjoy spending time with friends and maintaining a healthy work-life balance. Open to exciting opportunities and collaborations.
+<p align="left">🚀 Hello, I'm Aditya, a 2nd Year Computer Science student with a fervor for technology and a knack for building innovative solutions. Proficient in MERN Stack, Git, and GitHub, I am deeply engaged in mastering Data Structures and Algorithms using C++.
+
+🛠️ Beyond the front-end, I have hands-on experience with backend services, including cloud computing and Firebase. My passion lies in constructing complex web applications that push the boundaries of what's possible.
+
+🏆 I thrive in hackathon environments, having not only participated in several but also securing victories that showcase my problem-solving and coding skills. This drive for excellence has led me to a leadership role as the Head of the Development Department at Geek Room, where I manage a dynamic team of over 4000 students.
+
+🤝 In this role, I find immense joy in mentoring and guiding aspiring developers, fostering an environment of collaboration and innovation. My leadership skills have been honed through this experience, and I relish the opportunity to bring these skills to new challenges.
 </p>
 
 ---
