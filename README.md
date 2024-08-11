@@ -20,7 +20,7 @@
                     
 <h2>My Portfolio Website</h2> 
 <br />
-<a href="https://aditya-singh-portfolio.onrender.com" target="_blank"><img src="https://github.com/AdityaSingh2005/AdityaSingh2005/assets/103613774/ffd2e819-380c-43ec-985a-8d654a1884a3" height="200px"></a>
+<a href="https://adityasingh-pi.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/d2563373-9cc9-4fc0-8552-337559638d70" height="200px"></a>
 <br />
 
 <h2>Languages and Tools</h2> 
@@ -28,7 +28,6 @@
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github&perline=7"  />
 </p>
 <br />
-
 
 <!---
 <p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cappybara12&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
