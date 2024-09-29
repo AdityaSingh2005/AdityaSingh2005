@@ -5,13 +5,27 @@
 
                     
 
-<p align="left">🚀 Hello, I'm Aditya, a 2nd Year Computer Science student with a fervor for technology and a knack for building innovative solutions. Proficient in MERN Stack, Git, and GitHub, I am deeply engaged in mastering Data Structures and Algorithms using C++.
+<p align="left">
+Software Engineer (Full-stack- JS framework) with 2+ years of experience in Nodejs, Reactjs, Nextjs, Expressjs, Graphql, and state management like Redux with proficiency in web technologies like HTML5, CSS3, JavaScript, MySQL, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. 
 
-🛠️ Beyond the front-end, I have hands-on experience with backend services, including cloud computing and Firebase. My passion lies in constructing complex web applications that push the boundaries of what's possible.
+⚙ Key Skills: JavaScript, React, Next JS, TypeScript, Jest & React Testing Library, HTML, CSS, Material UI, Tailwind CSS, JSON, RESTful APIs, DOM, XML, Redux, Postman and more.
 
-🏆 I thrive in hackathon environments, having not only participated in several but also securing victories that showcase my problem-solving and coding skills. This drive for excellence has led me to a leadership role as the Head of the Development Department at Geek Room, where I manage a dynamic team of over 4000 students.
+✨ Languages: Reactjs, Nodejs, Nextjs, express js, JavaScript, Typescript.
+✨ Web technology: HTML5, CSS3, SASS, MUI.
+✨ Databases: SQL, MongoDB, Mysql.
+✨ Data structure and Algorithms, System design.
+✨ docker, application deployment, Visual Studio Code, Linux, CICD.
+✨ Well-versed with AGILE Methodology, SDLC, Version control system (GIT), and design platform (Figma).
 
-🤝 In this role, I find immense joy in mentoring and guiding aspiring developers, fostering an environment of collaboration and innovation. My leadership skills have been honed through this experience, and I relish the opportunity to bring these skills to new challenges.
+Software development Engineer at @Bynd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. My tasks may involve. Design Backend, Frontend, Testing, Code quality, Deployment analyzing algorithms, fixing bugs, brainstorming ideas, or integrating new systems. Implementing Refurb console platform for refurbishment process.
+
+Projects:
+✨ Judging Sheet- Effortless Score Management for Hackathons. @GeekRoom
+✨ Discovery- Empowering Finances with Bynd AI. @Bynd
+✨ Report Generation: AI-Powered Reports from Uploaded Docs. @Bynd
+✨ Hearing Hope:- Empowering Hearing, Enhancing Life. @HearingHope
+✨ Delivery website:- Tailored Deliveries for Every Size. @CLUMOSS
+✨ Personal projects: https://github.com/AdityaSingh2005
 </p>
 
 ---
