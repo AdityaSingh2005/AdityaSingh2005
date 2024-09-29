@@ -6,26 +6,26 @@
                     
 
 <p align="left">
-Software Engineer (Full-stack- JS framework) with 2+ years of experience in Nodejs, Reactjs, Nextjs, Expressjs, Graphql, and state management like Redux with proficiency in web technologies like HTML5, CSS3, JavaScript, MySQL, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. 
-
-⚙ Key Skills: JavaScript, React, Next JS, TypeScript, Jest & React Testing Library, HTML, CSS, Material UI, Tailwind CSS, JSON, RESTful APIs, DOM, XML, Redux, Postman and more.
-
-✨ Languages: Reactjs, Nodejs, Nextjs, express js, JavaScript, Typescript.
-✨ Web technology: HTML5, CSS3, SASS, MUI.
-✨ Databases: SQL, MongoDB, Mysql.
-✨ Data structure and Algorithms, System design.
-✨ docker, application deployment, Visual Studio Code, Linux, CICD.
-✨ Well-versed with AGILE Methodology, SDLC, Version control system (GIT), and design platform (Figma).
-
-Software development Engineer at @Bynd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. My tasks may involve. Design Backend, Frontend, Testing, Code quality, Deployment analyzing algorithms, fixing bugs, brainstorming ideas, or integrating new systems. Implementing Refurb console platform for refurbishment process.
-
+Software Engineer (Full-stack- JS framework) with 2+ years of experience in Nodejs, Reactjs, Nextjs, Expressjs, Graphql, and state management like Redux with proficiency in web technologies like HTML5, CSS3, JavaScript, MySQL, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. <br/>
+<br/>
+⚙ Key Skills: JavaScript, React, Next JS, TypeScript, Jest & React Testing Library, HTML, CSS, Material UI, Tailwind CSS, JSON, RESTful APIs, DOM, XML, Redux, Postman and more.<br/>
+<br/>
+✨ Languages: Reactjs, Nodejs, Nextjs, express js, JavaScript, Typescript.<br/>
+✨ Web technology: HTML5, CSS3, SASS, MUI.<br/>
+✨ Databases: SQL, MongoDB, Mysql.<br/>
+✨ Data structure and Algorithms, System design.<br/>
+✨ docker, application deployment, Visual Studio Code, Linux, CICD.<br/>
+✨ Well-versed with AGILE Methodology, SDLC, Version control system (GIT), and design platform (Figma).<br/>
+<br/>
+Software development Engineer at @Bynd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. My tasks may involve. Design Backend, Frontend, Testing, Code quality, Deployment analyzing algorithms, fixing bugs, brainstorming ideas, or integrating new systems. Implementing Refurb console platform for refurbishment process.<br/>
+<br/>
 Projects:
-✨ Judging Sheet- Effortless Score Management for Hackathons. @GeekRoom
-✨ Discovery- Empowering Finances with Bynd AI. @Bynd
-✨ Report Generation: AI-Powered Reports from Uploaded Docs. @Bynd
-✨ Hearing Hope:- Empowering Hearing, Enhancing Life. @HearingHope
-✨ Delivery website:- Tailored Deliveries for Every Size. @CLUMOSS
-✨ Personal projects: https://github.com/AdityaSingh2005
+✨ Judging Sheet- Effortless Score Management for Hackathons. @GeekRoom<br/>
+✨ Discovery- Empowering Finances with Bynd AI. @Bynd<br/>
+✨ Report Generation: AI-Powered Reports from Uploaded Docs. @Bynd<br/>
+✨ Hearing Hope:- Empowering Hearing, Enhancing Life. @HearingHope<br/>
+✨ Delivery website:- Tailored Deliveries for Every Size. @CLUMOSS<br/>
+✨ Personal projects: https://github.com/AdityaSingh2005<br/>
 </p>
 
 ---
