@@ -19,7 +19,7 @@ Software Engineer (Full-stack- JS framework) with 2+ years of experience in Node
 <br/>
 Software development Engineer at @Bynd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. My tasks may involve. Design Backend, Frontend, Testing, Code quality, Deployment analyzing algorithms, fixing bugs, brainstorming ideas, or integrating new systems. Implementing Refurb console platform for refurbishment process.<br/>
 <br/>
-Projects:
+Projects:<br/>
 ✨ Judging Sheet- Effortless Score Management for Hackathons. @GeekRoom<br/>
 ✨ Discovery- Empowering Finances with Bynd AI. @Bynd<br/>
 ✨ Report Generation: AI-Powered Reports from Uploaded Docs. @Bynd<br/>
