@@ -6,26 +6,9 @@
                     
 
 <p align="left">
-Software Engineer (Full-stack- JS framework) with 2+ years of experience in Nodejs, Reactjs, Nextjs, Expressjs, Graphql, and state management like Redux with proficiency in web technologies like HTML5, CSS3, JavaScript, MySQL, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces. <br/>
-<br/>
-⚙ Key Skills: JavaScript, React, Next JS, TypeScript, Jest & React Testing Library, HTML, CSS, Material UI, Tailwind CSS, JSON, RESTful APIs, DOM, XML, Redux, Postman and more.<br/>
-<br/>
-✨ Languages: Reactjs, Nodejs, Nextjs, express js, JavaScript, Typescript.<br/>
-✨ Web technology: HTML5, CSS3, SASS, MUI.<br/>
-✨ Databases: SQL, MongoDB, Mysql.<br/>
-✨ Data structure and Algorithms, System design.<br/>
-✨ docker, application deployment, Visual Studio Code, Linux, CICD.<br/>
-✨ Well-versed with AGILE Methodology, SDLC, Version control system (GIT), and design platform (Figma).<br/>
-<br/>
-Software development Engineer at @Bynd. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. My tasks may involve. Design Backend, Frontend, Testing, Code quality, Deployment analyzing algorithms, fixing bugs, brainstorming ideas, or integrating new systems. Implementing Refurb console platform for refurbishment process.<br/>
-<br/>
-Projects:<br/>
-✨ Judging Sheet- Effortless Score Management for Hackathons. @GeekRoom<br/>
-✨ Discovery- Empowering Finances with Bynd AI. @Bynd<br/>
-✨ Report Generation: AI-Powered Reports from Uploaded Docs. @Bynd<br/>
-✨ Hearing Hope:- Empowering Hearing, Enhancing Life. @HearingHope<br/>
-✨ Delivery website:- Tailored Deliveries for Every Size. @CLUMOSS<br/>
-✨ Personal projects: https://github.com/AdityaSingh2005<br/>
+I am a Full-Stack AI Engineer passionate about building intelligent, scalable, and user-focused applications by combining AI/ML, LLMs, and automation with modern full-stack technologies like Python, JavaScript/TypeScript. Skilled in deep learning, NLP, vector databases, and semantic search, I enjoy exploring how AI can transform workflows, make accurate predictions, and solve complex real-world problems. With strong experience in databases, cloud deployment, and CI/CD pipelines.
+
+As a side quest, I founded Geek Room, a 1,00,000+ developer community that connects students across India through hackathons, workshops, and bootcamps, fostering growth and collaboration. Driven by curiosity and creativity, I thrive on learning, experimenting, and bringing impactful ideas to life at the intersection of AI innovation, product development, and community building ✨
 </p>
 
 ---
