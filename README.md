@@ -6,3 +6,5 @@ I am a Full-Stack AI Engineer passionate about building intelligent, scalable, a
 
 As a side quest, I founded Geek Room, a 1,00,000+ developer community that connects students across India through hackathons, workshops, and bootcamps, fostering growth and collaboration. Driven by curiosity and creativity, I thrive on learning, experimenting, and bringing impactful ideas to life at the intersection of AI innovation, product development, and community building ✨
 </p>
+
+<p align="left>Checkout my Portfolio here - <a href="https://theaditya.in" target="_blank">theaditya.in</a></p>
